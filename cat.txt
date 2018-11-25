@@ -1,0 +1,4 @@
+how to use cat indictor
+
+EDF
+EOF
